@@ -24,7 +24,7 @@ Analysis of student performance, attendance, academic results, and educational r
 
 ### 1. Financial Health Dashboard
 
-![Financial Health Dashboard](01-Financial-Health/Screenshot%202026-09-09%2016708.png)
+![Financial Health Dashboard](01-Financial-Health/Screenshot%202026-09-09%20161708.png)
 
 ### 2. HR Analytics Dashboard
 
