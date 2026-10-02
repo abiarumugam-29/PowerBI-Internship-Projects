@@ -20,6 +20,24 @@ Analysis of property prices, rental yield, supply and demand, interest rates, an
 ### 4. Educational Performance & Resource Allocation Dashboard
 Analysis of student performance, attendance, academic results, and educational resource allocation.
 
+## Dashboard Screenshots
+
+### 1. Financial Health Dashboard
+
+![Financial Health Dashboard](01-Financial-Health/Screenshot%202026-09-09%2016708.png)
+
+### 2. HR Analytics Dashboard
+
+![HR Analytics Dashboard](02-HR-Analytics/Screenshot%202026-10-02%20151016.png)
+
+### 3. Real Estate Market Trends Dashboard
+
+![Real Estate Market Trends Dashboard](03-Real-Estate-Market/Screenshot%202026-10-02%20161521.png)
+
+### 4. Educational Performance & Resource Allocation Dashboard
+
+![Educational Performance Dashboard](04-Education-Performance/Screenshot%202026-10-02%20202931.png)
+
 ## Tools Used
 
 - Microsoft Power BI
@@ -30,3 +48,8 @@ Analysis of student performance, attendance, academic results, and educational r
 ## Author
 
 ABINAYA A
+
+
+
+
+
