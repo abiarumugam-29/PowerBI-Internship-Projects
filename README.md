@@ -28,7 +28,7 @@ Analysis of student performance, attendance, academic results, and educational r
 
 ### 2. HR Analytics Dashboard
 
-![HR Analytics Dashboard](02-HR-Analytics/Screenshot%202026-10-02%20151016.png)
+![HR Analytics Dashboard](02-HR-Analytics/Screenshot%202026-10-02%20153016.png)
 
 ### 3. Real Estate Market Trends Dashboard
 
